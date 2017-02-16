@@ -1,4 +1,4 @@
-3. Lists
+"""3. Lists
 Tip: Have a look at this excellent tutorial in python lists: http://www.tutorialspoint.com/python/python_lists.htm
 •	Create a list that contains several random attributes:
 Example:
@@ -8,7 +8,7 @@ Example:
 
 •	Add some duplicate elements.
 Example:
-“abcd”, “abcd”, “jko”, ...
+“abcd”, “abcd”, “jko”, ..."""
 
 #3. Lists
 list = ['abcd', 'jko', 278, '18 Feb 2016'];
