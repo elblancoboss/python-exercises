@@ -1,4 +1,4 @@
-4. Functions
+"""4. Functions
 •	Explore the function frequency and its parameters.
 •	Using the function frequency, write a function that will produce a histogram from
 a list. A histogram shows in a visual fashion, such as with stars, the number of times an item occurs in a list. For example, the histogram for the data used to illustrate the frequency function might appear as follows:
@@ -8,7 +8,7 @@ pdq *
 def *
 
 •	What type of value is returned by has_key()? Explain why you can nevertheless use this value in a Boolean test, such as an if statement or a while.
-
+"""
 
 #4. Functions
 from collections import Counter
